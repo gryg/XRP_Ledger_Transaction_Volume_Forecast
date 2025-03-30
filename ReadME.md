@@ -30,23 +30,23 @@ Key findings:
 ### Model Visualizations
 
 #### LSTM Models
-![LSTM Daily Predictions](./xrp_results/processed_data/lstm_daily_predictions.png)
+![LSTM Daily Predictions](./xrp_results/processed_data/xgboost_daily_lstm_predictions.png)
 *Figure 1: LSTM model predictions vs actual transaction volume (daily)*
 
-![LSTM Daily Training](./xrp_results/processed_data/lstm_daily_training_history.png)
+![LSTM Daily Training](./xrp_results/processed_data/xgboost_daily_lstm_training_history.png)
 *Figure 2: LSTM model training and validation loss (daily)*
 
-![LSTM Hourly Predictions](./xrp_results/processed_data/lstm_hourly_predictions.png)
+![LSTM Hourly Predictions](./xrp_results/processed_data/xgboost_hourly_lstm_predictions.png)
 *Figure 3: LSTM model predictions vs actual transaction volume (hourly)*
 
-![LSTM Hourly Training](./xrp_results/processed_data/lstm_hourly_training_history.png)
+![LSTM Hourly Training](./xrp_results/processed_data/xgboost_hourly_lstm_training_history.png)
 *Figure 4: LSTM model training and validation loss (hourly)*
 
 #### XGBoost Models
-![XGBoost Daily Predictions](./xrp_results/processed_data/xgboost_daily_predictions.png)
+![XGBoost Daily Predictions](./xrp_results/processed_data/xgboost_daily_xgboost_predictions.png)
 *Figure 5: XGBoost model predictions vs actual transaction volume (daily)*
 
-![XGBoost Hourly Predictions](./xrp_results/processed_data/xgboost_hourly_predictions.png)
+![XGBoost Hourly Predictions](./xrp_results/processed_data/xgboost_hourly_xgboost_predictions.png)
 *Figure 6: XGBoost model predictions vs actual transaction volume (hourly)*
 
 ## Project Structure
